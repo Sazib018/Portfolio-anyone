@@ -158,4 +158,47 @@ transition-duration: 0.3s;
 .text-black-300{
     color: #18181896;
 }
+.pt-6{
+    padding-top: 25px;
 
+}
+.text-center{
+    text-align: center;
+}
+.text-xl{
+    font-size: 30px;
+}
+.mt-6{
+    margin-top: 24px;
+}
+.footer-left{
+    width: 100%;
+}
+.footer-right{
+    margin-left: 200px;
+    margin-right: 100px;
+    width: 100%;
+}
+footer{
+    background-color: #FFF8F3;
+}
+::placeholder{
+    color: #1818184d;
+    font-size: larger;
+}
+input, textarea{
+    border: none;
+    padding: 10px;
+    width: 100%;
+}
+.container{
+    display: flex;
+    width: 85%;
+    margin: auto;
+    gap: 20px;
+    margin-top: 60px;
+    padding-block: 100px;
+}
+.d-block{
+    display: block;
+}
